@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void testi() {
+        //lasknalks
         int i = 1;
         int o = 2;
     }
