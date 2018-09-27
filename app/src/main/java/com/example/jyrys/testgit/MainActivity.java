@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void testi() {
         int i = 1;
+        int o = 2;
     }
 }
